@@ -44,13 +44,14 @@
     <img src="https://api.iconify.design/logos:visual-studio-code.svg" alt="vscode" width="25" height="25" />
     <img src="https://api.iconify.design/logos:intellij-idea.svg" alt="intellij" width="25" height="25" />
     <img src="https://api.iconify.design/logos:python.svg" alt="python" width="25" height="25" />
+    <img src="https://api.iconify.design/logos:javascript.svg" alt="javascript" width="25" height="25" />
     <img src="https://api.iconify.design/logos:ethereum.svg" alt="ethereum" width="25" height="25" />
     <img src="https://api.iconify.design/logos:metamask-icon.svg" alt="metamask" width="25" height="25" />
     <img src="https://api.iconify.design/logos:java.svg" alt="java" width="25" height="25" />
     <img src="https://api.iconify.design/logos:flutter.svg" alt="flutter" width="25" height="25" />
     <img src="https://api.iconify.design/logos:c-sharp.svg" alt="c-sharp" width="25" height="25" />
     <img src="https://api.iconify.design/logos:c-plusplus.svg" alt="c-plusplus" width="25" height="25" />
-    <img src="https://api.iconify.design/logos:flutter.svg" alt="flutter" width="25" height="25" />
+    <img src="https://api.iconify.design/logos:c.svg" alt="c" width="25" height="25" />
     <img src="https://api.iconify.design/logos:nodejs-icon.svg" alt="nodejs" width="25" height="25" />
     <img src="https://api.iconify.design/logos:nestjs.svg" alt="nestjs" width="25" height="25" />
     <img src="https://api.iconify.design/logos:laravel.svg" alt="laravel" width="25" height="25" />
