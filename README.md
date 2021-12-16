@@ -1,4 +1,4 @@
-# Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm <a href="#">Mamadou WONE</a>
+# Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm <a href="#">Mamadou WONE🙂 </a>
 
 <a href="https://twitter.com/mamadu_wone">
   <img align="left" style="margin-right:10px;" alt="Mamadou WONE | Twitter" width="32px" src="https://api.iconify.design/logos:twitter.svg" />
@@ -23,7 +23,7 @@
 
 <br />
 
-## ⚡️ My daily life
+## 🌞 My daily life
 
 <ul>
     <li>🏫 I'm going back to school, I'm currently doing a master's degree in Security of on-board systems( Software/Hardware) and cyber security.</li>
