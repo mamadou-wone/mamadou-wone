@@ -103,7 +103,7 @@
 </table>
 
 <div>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Mamadou WONE&show_icons=true&count_private=true&theme=gotham" alt="Mamadou WONE" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=mamadou-wone&show_icons=true&count_private=true&theme=gotham" alt="mamadou-wone" />
     <span>&nbsp; &nbsp; &nbsp; &nbsp;</span>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mamadou WONE&layout=compact&theme=gotham&show_icons=true&count_private=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mamadou-wone&layout=compact&theme=gotham&show_icons=true&count_private=true" />
 </div>
