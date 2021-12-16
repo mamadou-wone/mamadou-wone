@@ -16,7 +16,7 @@
 
 <p>I'm currently a software engineer & fullstack developer at <strong><a href="https://baamtu.com/">Baamtu</a></strong> based in Dakar <img src="https://api.iconify.design/openmoji:flag-senegal.svg" width="20px"/>
 
-<p>I am passionate about all that is new technology  and especially on <strong>Blockchain</strong></p>
+<p>I am passionate about all that is new technology  and especially on <strong>Blockchain😍</strong></p>
 
 
 <img align="right" alt="GIF" src="https://github.com/mamadou-wone/mamadou-wone/blob/main/tech.gif" width="300" height="220" />
@@ -26,12 +26,12 @@
 ## ⚡️ My daily life
 
 <ul>
-    <li>🏫 I'm going back to school, I'm currently doing a master's degree in Security of on-board systems( Software/Hardware) and cyber security </li>
-    <li>🔭 I’m currently working on the ethereum blockchain.</li>
-    <li>🧐 Learning about <strong>Cloud/DevSecOps</strong>, <strong>Distributed Systems & MicroServices</strong>, and a bit of <strong>MicroFrontends</strong>.</li>
-    <li>👨‍💻 Most of my projects are available on <a href="https://github.com/Mamadou WONE">Github</a>.</li>
-    <li>💬 Ping me about <strong>fullstack dev, security, and cloud stuff</strong>.</li>
-    <li>🎉 Fun Fact: 私はビデオゲーム、日本の文化、マンガが大好きです。</li>
+    <li>🏫 I'm going back to school, I'm currently doing a master's degree in Security of on-board systems( Software/Hardware) and cyber security.</li>
+    <li>🤯 I’m currently working on the ethereum blockchain.</li>
+    <li>🤠  Learning about <strong>Cryptography</strong>, <strong>Distributed Systems & MicroServices</strong>, and the  <strong>Internet of the Future😋</strong>.</li>
+    <li>👨‍💻 Most of my projects are available on <a href="https://github.com/mamadou-wone">Github</a>.</li>
+    <li>💬 Ping me about <strong>fullstack dev, security, decentralize architecture...</strong>.</li>
+    <li>💡 <strong>Automating Everything </strong>💡</li>
 </ul>
 
  <br />
