@@ -47,7 +47,9 @@
     <img src="https://api.iconify.design/logos:ethereum.svg" alt="ethereum" width="25" height="25" />
     <img src="https://api.iconify.design/logos:metamask-icon.svg" alt="metamask" width="25" height="25" />
     <img src="https://api.iconify.design/logos:java.svg" alt="java" width="25" height="25" />
+    <img src="https://api.iconify.design/logos:flutter.svg" alt="flutter" width="25" height="25" />
     <img src="https://api.iconify.design/logos:c-sharp.svg" alt="c-sharp" width="25" height="25" />
+    <img src="https://api.iconify.design/logos:c-plusplus.svg" alt="c-plusplus" width="25" height="25" />
     <img src="https://api.iconify.design/logos:flutter.svg" alt="flutter" width="25" height="25" />
     <img src="https://api.iconify.design/logos:nodejs-icon.svg" alt="nodejs" width="25" height="25" />
     <img src="https://api.iconify.design/logos:nestjs.svg" alt="nestjs" width="25" height="25" />
