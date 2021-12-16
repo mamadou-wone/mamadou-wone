@@ -1,6 +1,6 @@
 # Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm <a href="#">Mamadou WONE🙂 </a>
 
-<a href="https://twitter.com/mamadu_wone">
+<a href="https://www.instagram.com/mamad0u_w0ne/">
   <img align="left" style="margin-right:10px;" alt="Mamadou WONE | Twitter" width="32px" src="https://api.iconify.design/logos:instagram.svg" />
 </a>
 
@@ -12,7 +12,7 @@
   <img align="left" style="margin-right:10px;" alt="Mamadou WONE | LinkedIn" width="25px" src="https://api.iconify.design/logos:linkedin-icon.svg" />
 </a> 
 
-<a href="https://twitter.com/mamadu_wone">
+<a href="#">
   <img align="left" style="margin-right:10px;" alt="Mamadou WONE | Twitter" width="32px" src="https://api.iconify.design/logos:twitch.svg" />
 </a>
 
