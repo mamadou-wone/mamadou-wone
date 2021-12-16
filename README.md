@@ -55,7 +55,7 @@
     <img src="https://api.iconify.design/logos:nodejs-icon.svg" alt="nodejs" width="25" height="25" />
     <img src="https://api.iconify.design/logos:nestjs.svg" alt="nestjs" width="25" height="25" />
     <img src="https://api.iconify.design/logos:truffle.svg" alt="truffle" width="25" height="25" />
-    <img src="https://api.iconify.design/logos:ipfs.svg" alt="ipfs" width="25" height="25" />
+    <img src="https://api.iconify.design/logos:icon-park:blockchain.svg" alt="icon-park:blockchain" width="25" height="25" />
     <img src="https://api.iconify.design/logos:django-icon.svg" alt="django" width="25" height="25" />
     <img src="https://api.iconify.design/logos:flask.svg" alt="flask" width="25" height="25" />
     <img src="https://api.iconify.design/logos:spring-icon.svg" alt="spring" width="25" height="25" />
