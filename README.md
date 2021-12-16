@@ -20,7 +20,7 @@
 
 <p>Feel free to reach out to me for freelance job or open source collaborative projects !</p>
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/tech.gif?raw=true" width="300" height="220" />
+<img align="right" alt="GIF" src="https://github.com/mamadou-wone/mamadou-wone/blob/main/tech.gif" width="300" height="220" />
 
 <br />
 
