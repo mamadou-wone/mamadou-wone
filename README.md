@@ -66,42 +66,6 @@
 
 <br />
 
-## 📖 Open source projects
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/Mamadou WONE/paytech-php-client"><b>PayTech SDK : A simple SDK Client or API Client for PayTech Online Payment Gateway.</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Mamadou WONE/paytech-php-client?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Mamadou WONE/paytech-php-client?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/Mamadou WONE/paytech-php-client?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Mamadou WONE/paytech-php-client?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Mamadou WONE/python-drools-sdk"><b>Python Drools SDK : A python library that allow you to interact with the REST API exposed by your KIE Server instance powered by Drools.</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Mamadou WONE/python-drools-sdk?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Mamadou WONE/python-drools-sdk?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/Mamadou WONE/python-drools-sdk?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Mamadou WONE/python-drools-sdk?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Mamadou WONE/php-package-skeleton"><b>PHP Package Skeleton : A simple PHP library boilerplate that allow you to quickly start building your next awesome composer package.</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Mamadou WONE/php-package-skeleton?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Mamadou WONE/php-package-skeleton?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/Mamadou WONE/php-package-skeleton?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Mamadou WONE/php-package-skeleton?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-  </tbody>
-</table>
-
 <div>
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=mamadou-wone&show_icons=true&count_private=true&theme=gotham" alt="mamadou-wone" />
     <span>&nbsp; &nbsp; &nbsp; &nbsp;</span>
