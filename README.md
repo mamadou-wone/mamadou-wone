@@ -44,9 +44,10 @@
     <img src="https://api.iconify.design/logos:visual-studio-code.svg" alt="vscode" width="25" height="25" />
     <img src="https://api.iconify.design/logos:intellij-idea.svg" alt="intellij" width="25" height="25" />
     <img src="https://api.iconify.design/logos:python.svg" alt="python" width="25" height="25" />
+    <img src="https://api.iconify.design/logos:ethereum.svg" alt="ethereum" width="25" height="25" />
     <img src="https://api.iconify.design/logos:metamask-icon.svg" alt="metamask" width="25" height="25" />
-    <img src="https://api.iconify.design/logos:react.svg" alt="react" width="25" height="25" />
-    <img src="https://api.iconify.design/logos:ionic-icon.svg" alt="ionic" width="25" height="25" />
+    <img src="https://api.iconify.design/logos:java.svg" alt="java" width="25" height="25" />
+    <img src="https://api.iconify.design/logos:c-sharp.svg" alt="c-sharp" width="25" height="25" />
     <img src="https://api.iconify.design/logos:flutter.svg" alt="flutter" width="25" height="25" />
     <img src="https://api.iconify.design/logos:nodejs-icon.svg" alt="nodejs" width="25" height="25" />
     <img src="https://api.iconify.design/logos:nestjs.svg" alt="nestjs" width="25" height="25" />
@@ -58,7 +59,6 @@
     <img src="https://api.iconify.design/logos:jhipster-icon.svg" alt="jhipster" width="25" height="25" />
     <img src="https://api.iconify.design/logos:postgresql.svg" alt="postgresql" width="25" height="25" />
     <img src="https://api.iconify.design/logos:docker-icon.svg" alt="docker" width="25" height="25" />
-    <img src="https://api.iconify.design/logos:ethereum.svg" alt="ethereum" width="25" height="25" />
     <img src="https://api.iconify.design/logos:heroku-icon.svg" alt="heroku" width="25" height="25" />
     <img src="https://api.iconify.design/logos:netlify.svg" alt="netlify" width="25" height="25" />
     <img src="https://api.iconify.design/logos:aws.svg" alt="aws" width="25" height="25" />
