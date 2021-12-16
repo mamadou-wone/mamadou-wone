@@ -1,12 +1,20 @@
 # Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm <a href="#">Mamadou WONE🙂 </a>
 
 <a href="https://twitter.com/mamadu_wone">
+  <img align="left" style="margin-right:10px;" alt="Mamadou WONE | Twitter" width="32px" src="https://api.iconify.design/logos:instagram.svg" />
+</a>
+
+<a href="https://twitter.com/mamadu_wone">
   <img align="left" style="margin-right:10px;" alt="Mamadou WONE | Twitter" width="32px" src="https://api.iconify.design/logos:twitter.svg" />
 </a>
 
 <a href="https://www.linkedin.com/in/mamadou-wone-590229178/">
   <img align="left" style="margin-right:10px;" alt="Mamadou WONE | LinkedIn" width="25px" src="https://api.iconify.design/logos:linkedin-icon.svg" />
 </a> 
+
+<a href="https://twitter.com/mamadu_wone">
+  <img align="left" style="margin-right:10px;" alt="Mamadou WONE | Twitter" width="32px" src="https://api.iconify.design/logos:twitch.svg" />
+</a>
 
 <a href="mailto:mamadu.wone@gmail.com">
   <img align="left" style="margin-right:10px;" alt="Mamadou WONE | Gmail" width="32px" src="https://api.iconify.design/logos:google-gmail.svg" />
