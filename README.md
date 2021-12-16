@@ -5,7 +5,7 @@
 </a>
 
 <a href="https://twitter.com/mamadu_wone">
-  <img align="left" style="margin-right:10px;" alt="Mamadou WONE | Twitter" width="32px" src="https://api.iconify.design/logos:twitter.svg" />
+  <img align="left" style="margin-right:10px;" alt="Mamadou WONE | Twitter" width="42px" src="https://api.iconify.design/logos:twitter.svg" />
 </a>
 
 <a href="https://www.linkedin.com/in/mamadou-wone-590229178/">
