@@ -62,7 +62,7 @@
     <img src="https://api.iconify.design/logos:postgresql.svg" alt="postgresql" width="25" height="25" />
     <img src="https://api.iconify.design/logos:docker-icon.svg" alt="docker" width="25" height="25" />
     <img src="https://api.iconify.design/logos:heroku-icon.svg" alt="heroku" width="25" height="25" />
-    <img src="https://api.iconify.design/logos:netlify.svg" alt="netlify" width="25" height="25" />
+    <img src="https://api.iconify.design/logos:firebase.svg" alt="firebase" width="25" height="25" />
     <img src="https://api.iconify.design/logos:aws.svg" alt="aws" width="25" height="25" />
 </p>
 
