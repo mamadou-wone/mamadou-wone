@@ -12,7 +12,7 @@
   <img align="left" style="margin-right:10px;" alt="Mamadou WONE | Gmail" width="32px" src="https://api.iconify.design/logos:google-gmail.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=Mamadou WONE.Mamadou WONE)
+![](https://visitor-badge.glitch.me/badge?page_id=mamadou-wone.mamadou-wone)
 
 <p>I'm currently a software engineer & fullstack developer at <strong><a href="https://baamtu.com/">Baamtu</a></strong> based in Dakar <img src="https://api.iconify.design/openmoji:flag-senegal.svg" width="20px"/> Senegal. I am working on some side projects, learning a couple new things, and trying to h4ck the world like Elliot Alderson in Mr Robot.</p>
 
