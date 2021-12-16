@@ -20,7 +20,7 @@
 
 <p>Feel free to reach out to me for freelance job or open source collaborative projects !</p>
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="220" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/tech.gif?raw=true" width="300" height="220" />
 
 <br />
 
@@ -32,7 +32,6 @@
     <li>🧐 Learning about <strong>Cloud/DevSecOps</strong>, <strong>Distributed Systems & MicroServices</strong>, and a bit of <strong>MicroFrontends</strong>.</li>
     <li>👨‍💻 Most of my projects are available on <a href="https://github.com/Mamadou WONE">Github</a>.</li>
     <li>💬 Ping me about <strong>fullstack dev, security, and cloud stuff</strong>.</li>
-    <!-- <li>📙 Check out my <a href="#">resume</a>.</li> -->
     <li>🎉 Fun Fact: 私はビデオゲーム、日本の文化、マンガが大好きです。</li>
 </ul>
 
@@ -41,7 +40,7 @@
 ## 🚀 Some Tools or Technologies I Use
 
 <p align="left">
-    <img src="https://api.iconify.design/logos:visual-studio-code.svg" alt="vscode" width="25" height="25" />
+    <img src="https://api.iconify.design/logos:visual-studio-cod.e.svg" alt="vscode" width="25" height="25" />
     <img src="https://api.iconify.design/logos:intellij-idea.svg" alt="intellij" width="25" height="25" />
     <img src="https://api.iconify.design/logos:python.svg" alt="python" width="25" height="25" />
     <img src="https://api.iconify.design/logos:javascript.svg" alt="javascript" width="25" height="25" />
