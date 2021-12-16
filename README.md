@@ -43,7 +43,7 @@
 <p align="left">
     <img src="https://api.iconify.design/logos:visual-studio-code.svg" alt="vscode" width="25" height="25" />
     <img src="https://api.iconify.design/logos:intellij-idea.svg" alt="intellij" width="25" height="25" />
-    <img src="https://api.iconify.design/logos:vue.svg" alt="vue" width="25" height="25" />
+    <img src="https://api.iconify.design/logos:python.svg" alt="python" width="25" height="25" />
     <img src="https://api.iconify.design/logos:angular-icon.svg" alt="angular" width="25" height="25" />
     <img src="https://api.iconify.design/logos:react.svg" alt="react" width="25" height="25" />
     <img src="https://api.iconify.design/logos:ionic-icon.svg" alt="ionic" width="25" height="25" />
