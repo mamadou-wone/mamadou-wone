@@ -39,7 +39,7 @@
 ## 🚀 Some Tools or Technologies I Use
 
 <p align="left">
-    <img src="https://api.iconify.design/logos:vscode-icons:file-type-vscode.svg" alt="vscode" width="25" height="25" />
+    <img src="https://api.iconify.design/logos:visual-studio-code.svg" alt="vscode" width="25" height="25" />
     <img src="https://api.iconify.design/logos:intellij-idea.svg" alt="intellij" width="25" height="25" />
     <img src="https://api.iconify.design/logos:python.svg" alt="python" width="25" height="25" />
     <img src="https://api.iconify.design/logos:javascript.svg" alt="javascript" width="25" height="25" />
