@@ -1,6 +1,6 @@
 # Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm <a href="#">Mamadou WONE🙂 </a>
 
-<a href="https://www.instagram.com/mamad0u_w0ne/">
+<a href="https://www.instagram.com/mamadu_wone/">
   <img align="left" style="margin-right:10px;" alt="Mamadou WONE | Twitter" width="32px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />
 </a>
 
