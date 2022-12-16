@@ -22,7 +22,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mamadou-wone.mamadou-wone)
 
-<p>I'm currently a software engineer & fullstack developer at <strong><a href="https://baamtu.com/">Baamtu</a></strong> based in Dakar <img src="https://api.iconify.design/openmoji:flag-senegal.svg" width="20px"/>
+<p>I'm currently a software engineer & fullstack developer based in Sénégal <img src="https://api.iconify.design/openmoji:flag-senegal.svg" width="20px"/>
 
 <p>I am passionate about all that is new technology  and especially on <strong>Blockchain😍</strong></p>
 
