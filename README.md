@@ -75,14 +75,7 @@
 
 <br />
 
-<p dir="auto">
-
-<a href="https://github.com/mamadou-wone/aes-implementation"><img src="https://camo.githubusercontent.com/b2c7ce398d7283941efa31e07030a8ae1b7ee78ae14cc2327a933df7371c1bd8/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d6d616d61646f752d776f6e65267265706f3d6165732d696d706c656d656e746174696f6e267468656d653d7261646963616c" alt="Readme Card" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=mamadou-wone&amp;repo=aes-implementation&amp;theme=synthwave" style="max-width: 100%;">
-</p>
-
-
-
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mamadou-wone&repo=java-aes-implementation&theme=dracula)](https://github.com/mamadou-wone/java-aes-implementation)
 
 <p dir="auto"><a href="https://github.com/mamadou-wone/java-aes-implementation"><img src="https://camo.githubusercontent.com/b8a4150ba4a5e4986e1758078065b3398cf91bd4b1010fbaf8c86e9b9326f395/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d6d616d61646f752d776f6e65267265706f3d6a6176612d6165732d696d706c656d656e746174696f6e267468656d653d7261646963616c" alt="Readme Card" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=mamadou-wone&amp;repo=java-aes-implementation&amp;theme=radical" style="max-width: 100%;"></a> <a href="https://github.com/mamadou-wone/euthereum-dap-started-project"><img src="https://camo.githubusercontent.com/27c70ae7f697bb99fedca4a2c63c31b62c7d2779856733528a68970fc9dc2a79/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d6d616d61646f752d776f6e65267265706f3d65757468657265756d2d6461702d737461727465642d70726f6a656374267468656d653d7261646963616c" alt="Readme Card" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=mamadou-wone&amp;repo=euthereum-dap-started-project&amp;theme=radical" style="max-width: 100%;"></a></p>
 
@@ -91,7 +84,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mamadou-wone&repo=CheatSheetSeries&theme=dark)](https://github.com/mamadou-wone/CheatSheetSeries)
 
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mamadou-wone&repo=java-aes-implementation&theme=radical)](https://github.com/mamadou-wone/java-aes-implementation)
+<!-- 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mamadou-wone&repo=euthereum-dap-started-project&theme=radical)](https://github.com/mamadou-wone/euthereum-dap-started-project)
 
