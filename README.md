@@ -75,10 +75,16 @@
 
 <br />
 
-<div>
+<div markdown="1">
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mamadou-wone&repo=aes-implementation&theme=radical)](https://github.com/mamadou-wone/aes-implementation)
+
+<br>
+<br>
+<br>
+<br>
+<br>
 </div>
 
-![](https://visitor-badge.glitch.me/badge?page_id=mamadou-wone.mamadou-wone)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mamadou-wone&repo=aes-implementation&theme=radical)](https://github.com/mamadou-wone/aes-implementation)
 
