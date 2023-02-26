@@ -1,3 +1,4 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mamadou-wone&show_icons=true&theme=radical)
 # Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm <a href="#">Mamadou WONE🙂 </a>
 
 <a href="https://www.instagram.com/mamadu_wone/">
@@ -77,6 +78,14 @@
 <div>
 </div>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mamadou-wone&repo=aes-implementation&theme=radical)](https://github.com/mamadou-wone/aes-implementation)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mamadou-wone&repo=java-aes-implementation&theme=radical)](https://github.com/mamadou-wone/java-aes-implementation)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mamadou-wone&show_icons=true&theme=radical)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mamadou-wone&repo=euthereum-dap-started-project&theme=radical)](https://github.com/mamadou-wone/euthereum-dap-started-project)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mamadou-wone&repo=Covid-19-Tracker&theme=radical)](https://github.com/mamadou-wone/Covid-19-Tracker)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mamadou-wone&repo=Flutter-Blockchain&theme=radical)](https://github.com/mamadou-wone/Flutter-Blockchain)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mamadou-wone&repo=CheatSheetSeries&theme=radical)](https://github.com/mamadou-wone/CheatSheetSeries)
