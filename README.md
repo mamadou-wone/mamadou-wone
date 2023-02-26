@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mamadou-wone&show_icons=true&theme=theme)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mamadou-wone&show_icons=true&theme=synthwave)
 # Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm <a href="#">Mamadou WONE🙂 </a>
 
 <a href="https://www.instagram.com/mamadu_wone/">
