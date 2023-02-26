@@ -77,6 +77,6 @@
 <div>
 </div>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mamadou-wone&repo=github-readme-stats)](https://github.com/mamadou-wone/java-aes-implementation)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mamadou-wone&repo=java-aes-implementation)](https://github.com/mamadou-wone/java-aes-implementation)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mamadou-wone&show_icons=true&theme=radical)
