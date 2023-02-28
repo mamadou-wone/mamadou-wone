@@ -84,12 +84,6 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mamadou-wone&repo=CheatSheetSeries&theme=dark)](https://github.com/mamadou-wone/CheatSheetSeries)
 
-<!-- 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mamadou-wone&repo=euthereum-dap-started-project&theme=radical)](https://github.com/mamadou-wone/euthereum-dap-started-project)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mamadou-wone&repo=Covid-19-Tracker&theme=radical)](https://github.com/mamadou-wone/Covid-19-Tracker)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mamadou-wone&repo=Flutter-Blockchain&theme=radical)](https://github.com/mamadou-wone/Flutter-Blockchain)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mamadou-wone&repo=CheatSheetSeries&theme=radical)](https://github.com/mamadou-wone/CheatSheetSeries) -->
+<p align="center">
+   <img src="https://github.com/meriem-mounchid/meriem-mounchid/blob/output/github-contribution-grid-snake.svg" alt="snake">
+</p>
