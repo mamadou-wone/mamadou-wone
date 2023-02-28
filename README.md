@@ -84,4 +84,4 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mamadou-wone&repo=CheatSheetSeries&theme=dark)](https://github.com/mamadou-wone/CheatSheetSeries)
 
-![snake gif](https://github.com/mamadou-wone/mamadou-wone/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/mamadou-wone/mamadou-wone/blob/output/github-contribution-grid-snake.svg)
