@@ -23,6 +23,8 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mamadou-wone.mamadou-wone)
 
+<br><br><br>
+
 <p>II'm a software engineer with experience working on a variety of projects using Java, Node.js, JavaScript, Python, C, and more. I'm passionate about creating clean, efficient, and well-documented code that solves real-world problems. <img src="https://api.iconify.design/openmoji:flag-senegal.svg" width="20px"/>
 
 <img align="right" alt="GIF" src="https://github.com/mamadou-wone/mamadou-wone/blob/main/tech.gif" width="300" height="220" />
