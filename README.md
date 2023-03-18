@@ -25,7 +25,8 @@
 
 <br><br><br>
 
-<p>II'm a software engineer with experience working on a variety of projects using Java, Node.js, JavaScript, Python, C, and more. I'm passionate about creating clean, efficient, and well-documented code that solves real-world problems. <img src="https://api.iconify.design/openmoji:flag-senegal.svg" width="20px"/>
+<p>I'm a software engineer with experience working on a variety of projects using Java, Node.js, JavaScript, Python, C, and more. I'm passionate about creating clean, efficient, and well-documented code that solves real-world problems.
+</p> 
 
 <img align="right" alt="GIF" src="https://github.com/mamadou-wone/mamadou-wone/blob/main/tech.gif" width="300" height="220" />
 
@@ -34,7 +35,7 @@
 ## 🌞 Want to work together or learn more about me?
 
 <p>
-Feel free to [contact me](link to contact) to discuss potential collaboration or to learn more about my background and experience. You can also check out my [LinkedIn profile](link to LinkedIn) to see my full work history and recommendations. Thanks for visiting my GitHub profile!
+Feel free to contact me to discuss potential collaboration or to learn more about my background and experience. You can also check out my <a href="https://www.linkedin.com/in/mamadou-wone-590229178/"> LinkedIn</a> profile to see my full work history and recommendations. Thanks for visiting my GitHub profile!
 </p>
 
  <br />
