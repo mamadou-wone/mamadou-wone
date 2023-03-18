@@ -34,7 +34,7 @@
 
 ## 🌞 Want to work together or learn more about me?
 
-<p>
+<p width="25" height="25">
 Feel free to contact me to discuss potential collaboration or to learn more about my background and experience. You can also check out my <a href="https://www.linkedin.com/in/mamadou-wone-590229178/"> LinkedIn</a> profile to see my full work history and recommendations. Thanks for visiting my GitHub profile!
 </p>
 
